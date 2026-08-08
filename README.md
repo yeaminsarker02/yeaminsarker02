@@ -1,120 +1,81 @@
-# Hi, I'm  Md Yeamin Sarker
+::: {align="center"}
 
-### Computer Science & Technology Student | Web Developer | Graphic Designer
+<!-- Animated Typing Header -->
 
-I'm a Computer Science & Technology student from Bangladesh who enjoys building websites, learning software development, and creating visual designs.
+<a href="https://github.com/yeaminsarker02">{=html}<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yeamin+Sarker+%F0%9F%91%8B;Computer+Science+%26+Technology+Student;Web+Developer+%7C+Graphic+Designer;Building+%7C+Learning+%7C+Improving" alt="Typing SVG" />{=html}</a>{=html}
 
-I'm currently focused on strengthening my web development and programming fundamentals while working on practical projects.
+<br>{=html}
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" width="100%"/>{=html}
 
-## 🚀 About Me
+💻 Web Developer • 🎨 Graphic Designer • 📚 CST Student
 
-- 🎓 Studying Diploma in Engineering – Computer Science & Technology
-- 💻 Currently learning HTML, CSS, JavaScript, Java & Git
-- 🌐 Interested in Web Development & Software Development
-- 🎨 Experienced in Graphic Design, Branding & Social Media Design
-- 🛠️ I enjoy turning ideas into practical digital projects
-- 📚 Continuously improving my skills through hands-on projects
+<p>
 
----
+<img src="https://komarev.com/ghpvc/?username=yeaminsarker02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>{=html}<img src="https://img.shields.io/github/followers/yeaminsarker02?label=Followers&style=flat&color=0e75b6" alt="Followers"/>{=html}
 
-## 💻 Tech Stack
-
-### Programming & Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Design
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🏠 Mass Web
-A responsive mess-management website built with HTML, CSS and JavaScript.
-
-**Focus:** Members, dashboard, meal management, expenses and balance tracking.
-
-### 📚 Libro Books & Stationery
-A book-focused e-commerce concept combining product presentation, branding and social media design.
-
-### ☕ Bearbean
-A coffee-shop branding project covering visual identity and promotional design.
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Become a strong full-stack web developer
-- 🧠 Build a solid foundation in programming and problem solving
-- 🌐 Create and deploy real-world web applications
-- 💼 Build a strong professional portfolio
-- 🤝 Contribute to open-source projects
-- 📈 Keep improving through consistent project-based learning
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yeaminsarker02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeaminsarker02&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yeaminsarker02&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminsarker02&theme=tokyo-night&hide_border=true&area=true" width="95%">
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/yeaminsarker02">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </p>
 
----
+:::
 
-<div align="center">
+👨‍💻 About Me
 
-### Thanks for visiting my profile! 👋
+I'm Yeamin Sarker, a Computer Science & Technology student fromBangladesh.
 
-**Build. Learn. Improve. Repeat.**
+I enjoy building websites, learning programming, and creating visualdesigns. My current focus is improving my development fundamentalsthrough real projects rather than just tutorials.
 
-</div>
+🎓 Diploma in Engineering --- Computer Science & Technology
+
+🌐 Learning Web Development
+
+💻 Practicing JavaScript, Java, HTML & CSS
+
+🎨 Graphic Design & Branding
+
+🚀 Building practical projects
+
+📖 Always learning something new
+
+⚡ Tech Stack
+
+::: {align="center"}<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode,ps,ai,indesign" />{=html}:::
+
+🚀 Featured Projects
+
+Project                             Description
+
+🏠 Mass Web                     Mess management website built withHTML, CSS & JavaScript
+
+📚 Libro Books & Stationery     Book-focused e-commerce andbranding concept
+
+📊 GitHub Analytics
+
+::: {align="center"}<img src="https://github-readme-stats.vercel.app/api?username=yeaminsarker02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>{=html}
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeaminsarker02&layout=compact&theme=tokyonight&hide_border=true" height="170"/>{=html}:::
+
+🔥 Contribution Streak
+
+::: {align="center"}<img src="https://streak-stats.demolab.com?user=yeaminsarker02&theme=tokyonight&hide_border=true" />{=html}:::
+
+🐍 My Contributions
+
+::: {align="center"}<img src="https://raw.githubusercontent.com/yeaminsarker02/yeaminsarker02/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>{=html}:::
+
+🎯 Current Goals
+
+Web Development       ███████████████░░░  80%
+JavaScript            ████████████░░░░░░  65%
+Java                  ██████████░░░░░░░░  55%
+Git & GitHub           █████████████░░░░░  70%
+Problem Solving        █████████░░░░░░░░░  50%
+
+🌐 Connect With Me
+
+::: {align="center"}<a href="https://github.com/yeaminsarker02">{=html}<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}</a>{=html}:::
+
+::: {align="center"}<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>{=html}
+
+⚡ Build • Learn • Improve • Repeat
+
+:::
