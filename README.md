@@ -1,36 +1,3 @@
-<div align="center">
-
-<!-- ANIMATED NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+YEAMIN+SARKER+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Graphic+Designer+%F0%9F%8E%A8;Computer+Science+%26+Technology+Student+%F0%9F%8E%93" alt="Yeamin Sarker"/>
-
-<br>
-
-<!-- ANIMATED WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=YEAMIN%20SARKER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=yeaminsarker02&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
----
-
-<h3 align="center">
-<code>yeaminsarker02@github ~ $ whoami</code>
-</h3>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║                    Y E A M I N                       ║
-║                                                      ║
-║              WEB DEVELOPER / DESIGNER               ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-</div>
 # Hi, I'm Yeamin Sarker 👋
 
 ### Computer Science & Technology Student | Web Developer | Graphic Designer
