@@ -31,88 +31,123 @@
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 </div>
-<h3 align="center"> <code>yeaminsarker02@github ~ $ about</code> </h3> <div align="center">
-👨‍💻 About Me
+# Hi, I'm Yeamin Sarker 👋
 
-I'm Yeamin Sarker, a Computer Science & Technology student from Bangladesh.
+### Computer Science & Technology Student | Web Developer | Graphic Designer
 
-I enjoy building websites, learning programming, and creating visual designs.
-My current focus is improving my development skills by building real-world projects.
+I'm a Computer Science & Technology student from Bangladesh who enjoys building websites, learning software development, and creating visual designs.
 
-</div> <br> <div align="center">
-🎓 Education	💻 Development	🎨 Design
-Diploma in CST	Web Development	Graphic Design
-Computer Science	JavaScript	Branding
-Technology	Java	Social Media Design
-</div>
-<h3 align="center"> <code>yeaminsarker02@github ~ $ tech-stack</code> </h3> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
+I'm currently focused on strengthening my web development and programming fundamentals while working on practical projects.
 
-<br><br>
+---
 
-<img src="https://skillicons.dev/icons?i=ps,ai,indesign,canva" /> </div>
-<h3 align="center"> <code>yeaminsarker02@github ~ $ ./projects.sh</code> </h3> <div align="center"> <table> <tr> <td width="33%" align="center">
-🏠 Mass Web
+## 🚀 About Me
 
-Mess Management System
+- 🎓 Studying Diploma in Engineering – Computer Science & Technology
+- 💻 Currently learning HTML, CSS, JavaScript, Java & Git
+- 🌐 Interested in Web Development & Software Development
+- 🎨 Experienced in Graphic Design, Branding & Social Media Design
+- 🛠️ I enjoy turning ideas into practical digital projects
+- 📚 Continuously improving my skills through hands-on projects
 
-HTML • CSS • JavaScript
+---
 
-Responsive web application for managing members, meals, expenses and balance.
+## 💻 Tech Stack
 
-</td> <td width="33%" align="center">
-📚 Libro
+### Programming & Web
 
-Books & Stationery
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-E-Commerce • Branding
+### Tools
 
-Book-focused e-commerce concept with branding and social media design.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</td> <td width="33%" align="center">
-☕ Bearbean
+### Design
 
-Coffee Shop
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-Brand Identity • Design
+---
 
-Coffee-shop branding project with visual identity and promotional graphics.
+## 📌 Featured Projects
 
-</td> </tr> </table> </div>
-<h3 align="center"> <code>yeaminsarker02@github ~ $ github.stats</code> </h3> <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=yeaminsarker02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeaminsarker02&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-<h3 align="center"> <code>yeaminsarker02@github ~ $ contribution.activity</code> </h3> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminsarker02&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area_color=36BCF7&area=true&hide_border=true&custom_title=YEAMIN'S%20CONTRIBUTION%20GRAPH" width="95%"/>
+### 🏠 Mass Web
+A responsive mess-management website built with HTML, CSS and JavaScript.
 
-<br><br>
+**Focus:** Members, dashboard, meal management, expenses and balance tracking.
 
-<img src="https://streak-stats.demolab.com?user=yeaminsarker02&theme=tokyonight&hide_border=true" width="80%"/> </div>
-<h3 align="center"> <code>yeaminsarker02@github ~ $ current.focus</code> </h3> <div align="center">
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🚀 WEB DEVELOPMENT                                  │
-│  ████████████████░░░░  80%                           │
-│                                                      │
-│  ⚡ JAVASCRIPT                                       │
-│  █████████████░░░░░░░  65%                           │
-│                                                      │
-│  ☕ JAVA                                             │
-│  ███████████░░░░░░░░░  55%                           │
-│                                                      │
-│  🔧 GIT & GITHUB                                     │
-│  ██████████████░░░░░░  70%                           │
-│                                                      │
-│  🧠 PROBLEM SOLVING                                  │
-│  ██████████░░░░░░░░░░  50%                           │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-</div>
-<h3 align="center"> <code>yeaminsarker02@github ~ $ goals</code> </h3> <div align="center">
+### 📚 Libro Books & Stationery
+A book-focused e-commerce concept combining product presentation, branding and social media design.
 
-🚀 Become a strong Full-Stack Developer
-💻 Build real-world web applications
-🧠 Improve programming & problem solving
-🌐 Build a professional portfolio
-🤝 Contribute to open-source projects
+### ☕ Bearbean
+A coffee-shop branding project covering visual identity and promotional design.
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Become a strong full-stack web developer
+- 🧠 Build a solid foundation in programming and problem solving
+- 🌐 Create and deploy real-world web applications
+- 💼 Build a strong professional portfolio
+- 🤝 Contribute to open-source projects
+- 📈 Keep improving through consistent project-based learning
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yeaminsarker02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeaminsarker02&layout=compact&theme=tokyonight&hide_border=true" height="170">
 
 </div>
-<h3 align="center"> <code>yeaminsarker02@github ~ $ contact</code> </h3> <div align="center"> <a href="https://github.com/yeaminsarker02"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/> <br>
-⚡ BUILD • LEARN • IMPROVE • REPEAT
-</div> ```
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yeaminsarker02&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeaminsarker02&theme=tokyo-night&hide_border=true&area=true" width="95%">
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/yeaminsarker02">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+**Build. Learn. Improve. Repeat.**
+
+</div>
